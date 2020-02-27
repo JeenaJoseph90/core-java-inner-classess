@@ -1,4 +1,4 @@
-package core.java.inner.classess.annonymous;
+package core.java.inner.classess.staticinnerclass;
 
 public class StaticInnerClassDemo {
 
